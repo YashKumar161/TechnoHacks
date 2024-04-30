@@ -30,6 +30,6 @@ Usage:
 5. View the calculated performance metrics (accuracy score, classification report) to assess the model's accuracy.
 6. Modify the 'new_data' dictionary in the main.py script to make predictions for new employee data.
 
-LinkedIn Post: [Insert your LinkedIn post link here]
+LinkedIn Post: https://www.linkedin.com/posts/yash-kumar-talan_datascience-employeeturnover-technohacks-activity-7190916314025099264-6YIe?utm_source=share&utm_medium=member_desktop
 
 Feel free to reach out if you have any questions or suggestions for improvement!
