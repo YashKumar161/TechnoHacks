@@ -14,7 +14,7 @@ This project implements an email spam filtering system using machine learning te
 Files:
 - main.py: Python script containing the code for preprocessing the data, training the Naive Bayes classifier, evaluating the model's performance, and making predictions for new email data.
 - dataset.csv: CSV file containing the dataset used for training and testing the model.
-- README.txt: This document providing information about the project.
+- README.md: This document providing information about the project.
 
 Dependencies:
 - pandas: Python library for data manipulation and analysis.
