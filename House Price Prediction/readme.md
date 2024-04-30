@@ -28,6 +28,6 @@ Usage:
 4. Run the main.py script to preprocess the data, train the model, evaluate its performance, and make predictions for new house prices.
 5. View the calculated performance metrics (MAE, MSE, RMSE) to assess the model's accuracy.
 
-LinkedIn Post: https://www.linkedin.com/posts/yash-kumar-talan_ai-house-price-prediction-activity-7192599057624793088-0Z9S
+LinkedIn Post: https://www.linkedin.com/posts/yash-kumar-talan_datascience-housepriceprediction-technohacks-activity-7190917448169058307-PUgM?utm_source=share&utm_medium=member_desktop
 
 Feel free to reach out if you have any questions or suggestions for improvement!
