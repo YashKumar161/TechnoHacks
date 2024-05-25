@@ -9,7 +9,7 @@ Welcome to TechnoHacks EduTech's Data Science internship program! This repositor
 
 ## Internship Details
 - **Reference ID:** THI-0424B37
-- **Duration:** 1 month (08/04/2024 - [End Date])
+- **Duration:** 1 month (08/04/2024 - 08/05/2024)
 - **Certificate Link:** [Certificate](https://github.com/YashKumar161/About-Me/blob/main/CERTIFICATE/TechnoHacks%20(Data%20Science).pdf)
 - **Offer Letter:** [Offer Letter](https://github.com/YashKumar161/About-Me/blob/main/Offer%20Letter/TechnoHacks(Data%20Science).pdf)
 
