@@ -9,6 +9,7 @@ Welcome to TechnoHacks EduTech's Data Science internship program! This repositor
 ## Internship Details
 - **Reference ID:** THI-0424B37
 - **Duration:** 1 month (08/04/2024 - 08/05/2024)
+- **Certificate and Offer Letter:** Available on [My LinkedIn](https://www.linkedin.com/yash-kumar-talan) and [GitHub Repo](https://github.com/YashKumar161/About-Me)
 
 ## Projects
 1. **Email Spam Filtering**
